@@ -31,7 +31,7 @@ def main():
         else:
             print("{0} is not a positive integer".format(positive_string))
     except ValueError:
-        print("{0} is not a valid input".format(positive_string))
+        print("{0}, is not a valid input".format(positive_string))
     finally:
         print("\nDone.")
 
