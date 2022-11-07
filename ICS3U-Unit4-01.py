@@ -5,7 +5,6 @@
 # This program uses a while loop
 
 
-
 def main():
 
     loop_counter = 0
