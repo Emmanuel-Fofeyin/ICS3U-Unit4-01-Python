@@ -13,7 +13,7 @@ def main():
     # This function adds all the whole numbers up to the inputted number
 
     # Input
-    positive_string = input("Enter a positive number: ")
+    positive_string = input("Enter a positive integer: ")
     print("")
 
     # Process and output
