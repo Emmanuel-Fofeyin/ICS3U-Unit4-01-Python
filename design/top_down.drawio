@@ -90,9 +90,6 @@
                 <mxCell id="18" value="add_int = add_int + loop_counter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="630" y="450" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="if positive_integer &gt; 0:" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="10" y="10" width="140" height="30" as="geometry"/>
-                </mxCell>
                 <mxCell id="25" value="Check if&amp;nbsp; positive_integer is integer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="220" y="450" width="120" height="60" as="geometry"/>
                 </mxCell>
